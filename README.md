@@ -1,5 +1,5 @@
 # BCG-X-DATA-SCIENCE-VIRTUAL-INTERNSHIP
-<h1 style position = 'center'> BCG: Data Science Virtual Experience Program</h1>
+
 Welcome to the Data Science
 We recognize that these tasks are challenging and that there are undoubtedly phrases and terminology you may not have heard before – don’t worry! We have tried to make this experience as true to life as possible and therefore our ask is that you attempt to seek out independent sources of information and do your own research, as required, to help guide you through the tasks.
  
